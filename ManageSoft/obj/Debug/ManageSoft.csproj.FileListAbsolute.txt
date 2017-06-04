@@ -1,0 +1,551 @@
+F:\C# (.NET)\ManageSoft\ManageSoft\bin\Debug\ManageSoft.exe.config
+F:\C# (.NET)\ManageSoft\ManageSoft\bin\Debug\ManageSoft.exe
+F:\C# (.NET)\ManageSoft\ManageSoft\bin\Debug\ManageSoft.pdb
+F:\C# (.NET)\ManageSoft\ManageSoft\obj\Debug\ManageSoft.csprojResolveAssemblyReference.cache
+F:\C# (.NET)\ManageSoft\ManageSoft\obj\Debug\ManageSoft.Properties.Resources.resources
+F:\C# (.NET)\ManageSoft\ManageSoft\obj\Debug\ManageSoft.csproj.GenerateResource.Cache
+F:\C# (.NET)\ManageSoft\ManageSoft\obj\Debug\ManageSoft.exe
+F:\C# (.NET)\ManageSoft\ManageSoft\obj\Debug\ManageSoft.pdb
+F:\C# (.NET)\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.Main.resources
+F:\C# (.NET)\ManageSoft\ManageSoft\obj\Debug\ManageSoft.Login.resources
+F:\C# (.NET)\ManageSoft\ManageSoft\bin\Debug\DevAge.Windows.Forms.dll
+F:\C# (.NET)\ManageSoft\ManageSoft\bin\Debug\DevComponents.DotNetBar2.dll
+F:\C# (.NET)\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraEditors.v7.1.dll
+F:\C# (.NET)\ManageSoft\ManageSoft\bin\Debug\DevAge.Core.dll
+F:\C# (.NET)\ManageSoft\ManageSoft\bin\Debug\DevAge.Drawing.dll
+F:\C# (.NET)\ManageSoft\ManageSoft\bin\Debug\DevExpress.Utils.v7.1.dll
+F:\C# (.NET)\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraReports.v7.1.dll
+F:\C# (.NET)\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraPrinting.v7.1.dll
+F:\C# (.NET)\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraBars.v7.1.dll
+F:\C# (.NET)\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraNavBar.v7.1.dll
+F:\C# (.NET)\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraCharts.v7.1.dll
+F:\C# (.NET)\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraRichTextEdit.v7.1.dll
+F:\C# (.NET)\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraScheduler.v7.1.dll
+F:\C# (.NET)\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraSpellChecker.v7.1.Core.dll
+F:\C# (.NET)\ManageSoft\ManageSoft\bin\Debug\EntityFramework.dll
+F:\C# (.NET)\ManageSoft\ManageSoft\bin\Debug\EntityFramework.SqlServer.dll
+F:\C# (.NET)\ManageSoft\ManageSoft\bin\Debug\EntityFramework.xml
+F:\C# (.NET)\ManageSoft\ManageSoft\bin\Debug\EntityFramework.SqlServer.xml
+F:\C# (.NET)\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.ImportModule.resources
+F:\C# (.NET)\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.ExportModule.resources
+F:\C# (.NET)\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.ImportResuls.resources
+F:\C# (.NET)\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.ExportResult.resources
+F:\C# (.NET)\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.ListItemsView.resources
+F:\C# (.NET)\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.StorageMap.resources
+F:\C# (.NET)\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.SelectEmployee.resources
+F:\C# (.NET)\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.SelectFactory.resources
+F:\C# (.NET)\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.SelectItem.resources
+F:\C# (.NET)\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.AddShipment.resources
+F:\C# (.NET)\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.Add_Item.resources
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\bin\Debug\ManageSoft.exe.config
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\obj\Debug\ManageSoft.exe
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\obj\Debug\ManageSoft.pdb
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\obj\Debug\ManageSoft.csprojResolveAssemblyReference.cache
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.Add_Item.resources
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.AddShipment.resources
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.ExportModule.resources
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.ExportResult.resources
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.ImportModule.resources
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.ImportResuls.resources
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.ListItemsView.resources
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.Main.resources
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.SelectEmployee.resources
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.SelectFactory.resources
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.SelectItem.resources
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.StorageMap.resources
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\obj\Debug\ManageSoft.Login.resources
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\obj\Debug\ManageSoft.Properties.Resources.resources
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\obj\Debug\ManageSoft.csproj.GenerateResource.Cache
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\bin\Debug\ManageSoft.exe
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\bin\Debug\ManageSoft.pdb
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\bin\Debug\EntityFramework.dll
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\bin\Debug\EntityFramework.SqlServer.dll
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\bin\Debug\DevAge.Drawing.dll
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraPrinting.v7.1.dll
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraBars.v7.1.dll
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraNavBar.v7.1.dll
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraCharts.v7.1.dll
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraRichTextEdit.v7.1.dll
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\bin\Debug\EntityFramework.xml
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\bin\Debug\EntityFramework.SqlServer.xml
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.Storage.resources
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.StorageItem.resources
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.Statistic.resources
+F:\Thuc tap nhom\TeamFile\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.EmployeeManager.resources
+F:\Thuc tap nhom\New folder\ManageSoft\ManageSoft\obj\Debug\ManageSoft.exe
+F:\Thuc tap nhom\New folder\ManageSoft\ManageSoft\obj\Debug\ManageSoft.pdb
+F:\Thuc tap nhom\New folder\ManageSoft\ManageSoft\obj\Debug\ManageSoft.csprojResolveAssemblyReference.cache
+F:\clone_destop\ManageSoft\ManageSoft\bin\Debug\ManageSoft.exe.config
+F:\clone_destop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.exe
+F:\clone_destop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.pdb
+F:\clone_destop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.csprojResolveAssemblyReference.cache
+F:\clone_destop\ManageSoft\ManageSoft\bin\Debug\ManageSoft.exe
+F:\clone_destop\ManageSoft\ManageSoft\bin\Debug\ManageSoft.pdb
+F:\clone_destop\ManageSoft\ManageSoft\bin\Debug\EntityFramework.dll
+F:\clone_destop\ManageSoft\ManageSoft\bin\Debug\EntityFramework.SqlServer.dll
+F:\clone_destop\ManageSoft\ManageSoft\bin\Debug\DevAge.Drawing.dll
+F:\clone_destop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraPrinting.v7.1.dll
+F:\clone_destop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraBars.v7.1.dll
+F:\clone_destop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraNavBar.v7.1.dll
+F:\clone_destop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraCharts.v7.1.dll
+F:\clone_destop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraRichTextEdit.v7.1.dll
+F:\clone_destop\ManageSoft\ManageSoft\bin\Debug\EntityFramework.xml
+F:\clone_destop\ManageSoft\ManageSoft\bin\Debug\EntityFramework.SqlServer.xml
+F:\clone_destop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.Add_Item.resources
+F:\clone_destop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.AddShipment.resources
+F:\clone_destop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.ExportModule.resources
+F:\clone_destop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.ExportResult.resources
+F:\clone_destop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.ImportModule.resources
+F:\clone_destop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.ImportResuls.resources
+F:\clone_destop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.ListItemsView.resources
+F:\clone_destop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.Main.resources
+F:\clone_destop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.SelectEmployee.resources
+F:\clone_destop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.SelectFactory.resources
+F:\clone_destop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.SelectItem.resources
+F:\clone_destop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.Statistic.resources
+F:\clone_destop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.Storage.resources
+F:\clone_destop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.StorageItem.resources
+F:\clone_destop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.StorageMap.resources
+F:\clone_destop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.Login.resources
+F:\clone_destop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.Properties.Resources.resources
+F:\clone_destop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.csproj.GenerateResource.Cache
+F:\clone_destop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.AboutBox1.resources
+F:\clone_destop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.Employee.resources
+F:\Thuc tap nhom\Chuan\ManageSoft\ManageSoft\bin\Debug\ManageSoft.exe.config
+F:\Thuc tap nhom\Chuan\ManageSoft\ManageSoft\obj\Debug\ManageSoft.exe
+F:\Thuc tap nhom\Chuan\ManageSoft\ManageSoft\obj\Debug\ManageSoft.pdb
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ManageSoft.exe.config
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ManageSoft.exe
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ManageSoft.pdb
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.Charts.v16.2.Core.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.CodeParser.v16.2.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.PivotGrid.v16.2.Core.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.SpellChecker.v16.2.Core.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.Utils.v16.2.UI.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraBars.v16.2.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraCharts.v16.2.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraCharts.v16.2.Wizard.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraGrid.v16.2.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraReports.v16.2.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraReports.v16.2.Extensions.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraScheduler.v16.2.Core.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraScheduler.v16.2.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraScheduler.v16.2.Reporting.Extensions.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevAge.Drawing.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraNavBar.v16.2.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraRichEdit.v16.2.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.DataAccess.v16.2.UI.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.DataAccess.v16.2.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraCharts.v16.2.Extensions.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraPivotGrid.v16.2.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraGauges.v16.2.Core.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.Office.v16.2.Core.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraScheduler.v16.2.Reporting.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.Diagram.v16.2.Core.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraDiagram.v16.2.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.Xpo.v16.2.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraCharts.v16.2.Wizard.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraCharts.v16.2.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.PivotGrid.v16.2.Core.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.Utils.v16.2.UI.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraReports.v16.2.Extensions.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraReports.v16.2.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraScheduler.v16.2.Core.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraScheduler.v16.2.Reporting.Extensions.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraGrid.v16.2.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraScheduler.v16.2.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.SpellChecker.v16.2.Core.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraRichEdit.v16.2.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.DataAccess.v16.2.UI.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.DataAccess.v16.2.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraPivotGrid.v16.2.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraGauges.v16.2.Core.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.Office.v16.2.Core.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraScheduler.v16.2.Reporting.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.Diagram.v16.2.Core.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraDiagram.v16.2.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\DevExpress.Xpo.v16.2.xml
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.PivotGrid.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.PivotGrid.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.PivotGrid.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.PivotGrid.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraReports.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraReports.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraReports.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraReports.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraScheduler.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraScheduler.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraScheduler.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraScheduler.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.DataAccess.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.DataAccess.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.DataAccess.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.DataAccess.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraPivotGrid.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraPivotGrid.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraPivotGrid.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraPivotGrid.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraScheduler.v16.2.Reporting.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraScheduler.v16.2.Reporting.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraScheduler.v16.2.Reporting.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraScheduler.v16.2.Reporting.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.Diagram.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.Diagram.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.Diagram.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.Diagram.v16.2.Core.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\User\Desktop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.AboutBox1.resources
+C:\Users\User\Desktop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.Add_Item.resources
+C:\Users\User\Desktop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.AddShipment.resources
+C:\Users\User\Desktop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.Employee.resources
+C:\Users\User\Desktop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.ExportModule.resources
+C:\Users\User\Desktop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.ExportResult.resources
+C:\Users\User\Desktop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.ImportModule.resources
+C:\Users\User\Desktop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.ImportResuls.resources
+C:\Users\User\Desktop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.ListItemsView.resources
+C:\Users\User\Desktop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.Main.resources
+C:\Users\User\Desktop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.SelectEmployee.resources
+C:\Users\User\Desktop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.SelectFactory.resources
+C:\Users\User\Desktop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.SelectItem.resources
+C:\Users\User\Desktop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.Statistic.resources
+C:\Users\User\Desktop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.Storage.resources
+C:\Users\User\Desktop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.StorageItem.resources
+C:\Users\User\Desktop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.StorageMap.resources
+C:\Users\User\Desktop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.Login.resources
+C:\Users\User\Desktop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.Properties.Resources.resources
+C:\Users\User\Desktop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.exe
+C:\Users\User\Desktop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.pdb
+C:\Users\User\Desktop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.Quanlymathang.resources
+C:\Users\User\Desktop\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.Doitac.resources
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ManageSoft.exe.config
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\obj\Debug\ManageSoft.exe
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\obj\Debug\ManageSoft.pdb
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ManageSoft.exe
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ManageSoft.pdb
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\EntityFramework.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\EntityFramework.SqlServer.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevAge.Drawing.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraNavBar.v16.2.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraRichEdit.v16.2.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.DataAccess.v16.2.UI.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.DataAccess.v16.2.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraCharts.v16.2.Extensions.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraPivotGrid.v16.2.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraGauges.v16.2.Core.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.Office.v16.2.Core.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraScheduler.v16.2.Reporting.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.Diagram.v16.2.Core.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraDiagram.v16.2.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.Xpo.v16.2.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.Data.v16.2.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.Utils.v16.2.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraCharts.v16.2.Wizard.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraCharts.v16.2.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.PivotGrid.v16.2.Core.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.Utils.v16.2.UI.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraReports.v16.2.Extensions.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraReports.v16.2.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraScheduler.v16.2.Core.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraScheduler.v16.2.Reporting.Extensions.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraBars.v16.2.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraGrid.v16.2.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraScheduler.v16.2.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.SpellChecker.v16.2.Core.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\EntityFramework.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\EntityFramework.SqlServer.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraRichEdit.v16.2.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.DataAccess.v16.2.UI.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.DataAccess.v16.2.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraPivotGrid.v16.2.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraGauges.v16.2.Core.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.Office.v16.2.Core.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraScheduler.v16.2.Reporting.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.Diagram.v16.2.Core.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.XtraDiagram.v16.2.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\DevExpress.Xpo.v16.2.xml
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraCharts.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraCharts.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraCharts.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraCharts.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.PivotGrid.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.PivotGrid.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.PivotGrid.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.PivotGrid.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.Utils.v16.2.UI.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.Utils.v16.2.UI.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.Utils.v16.2.UI.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.Utils.v16.2.UI.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraReports.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraReports.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraReports.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraReports.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraGrid.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraGrid.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraGrid.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraGrid.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraScheduler.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraScheduler.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraScheduler.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraScheduler.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraNavBar.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraNavBar.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraNavBar.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraRichEdit.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraRichEdit.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraRichEdit.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraRichEdit.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.DataAccess.v16.2.UI.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.DataAccess.v16.2.UI.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.DataAccess.v16.2.UI.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.DataAccess.v16.2.UI.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.DataAccess.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.DataAccess.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.DataAccess.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.DataAccess.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraPivotGrid.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraPivotGrid.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraPivotGrid.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraPivotGrid.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraGauges.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraGauges.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraGauges.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraGauges.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.XtraScheduler.v16.2.Reporting.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.XtraScheduler.v16.2.Reporting.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.XtraScheduler.v16.2.Reporting.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.XtraScheduler.v16.2.Reporting.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.Diagram.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.Diagram.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.Diagram.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.Diagram.v16.2.Core.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\de\DevExpress.Xpo.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\es\DevExpress.Xpo.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ja\DevExpress.Xpo.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\bin\Debug\ru\DevExpress.Xpo.v16.2.resources.dll
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\obj\Debug\ManageSoft.csprojResolveAssemblyReference.cache
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.AboutBox1.resources
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.Add_Item.resources
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.AddShipment.resources
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.Doitac.resources
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.Employee.resources
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.ExportModule.resources
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.ExportResult.resources
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.ImportModule.resources
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.ImportResuls.resources
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.ListItemsView.resources
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.Main.resources
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.Quanlymathang.resources
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.SelectEmployee.resources
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.SelectFactory.resources
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.SelectItem.resources
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.Statistic.resources
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.Storage.resources
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.StorageItem.resources
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\obj\Debug\ManageSoft.View.StorageMap.resources
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\obj\Debug\ManageSoft.Login.resources
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\obj\Debug\ManageSoft.Properties.Resources.resources
+F:\Thuc tap nhom\ManageSoft\ManageSoft\ManageSoft\obj\Debug\ManageSoft.csproj.GenerateResource.Cache
